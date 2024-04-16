@@ -1,0 +1,16 @@
+{
+  "notes" : [
+    {
+      "id": 1,
+      "text": "wash the dishes"
+    },
+    {
+      "id": 2,
+      "text": "clean the house"
+    },
+    {
+      "id": 3,
+      "text": "study React"
+    }
+  ]
+}
