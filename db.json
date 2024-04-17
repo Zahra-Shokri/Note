@@ -1,16 +1,28 @@
 {
-  "notes" : [
+  "notes": [
     {
-      "id": 1,
+      "id": "1",
       "text": "wash the dishes"
     },
     {
-      "id": 2,
+      "id": "2",
       "text": "clean the house"
     },
     {
-      "id": 3,
+      "id": "3",
       "text": "study React"
+    },
+    {
+      "id": 3,
+      "text": "cooking"
+    },
+    {
+      "id": 4,
+      "text": "gaming"
+    },
+    {
+      "id": 5,
+      "text": "play football"
     }
   ]
 }
