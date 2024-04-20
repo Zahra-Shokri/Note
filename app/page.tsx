@@ -7,7 +7,7 @@ export default function HomePage() {
             <div className='group'>
                 <Link
                     className='p-2 w-auto underline transition text-xl rounded-xl hover:bg-fuchsia-400 hover:text-gray-50'
-                    href='./notes-list'> Go To Your List </Link>
+                    href='./add-note'> Go To Your List </Link>
                 <span hidden className='pl-3 text-xl group-hover:inline'>😉</span>
             </div>
         </div>
